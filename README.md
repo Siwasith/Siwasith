@@ -10,15 +10,18 @@
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
+<p align="center">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white" alt="MUI" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git" />
