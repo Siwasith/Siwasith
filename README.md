@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
@@ -29,5 +27,4 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white" alt="ESLint" />
 </p>
